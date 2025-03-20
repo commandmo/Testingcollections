@@ -43,7 +43,7 @@ namespace Testingcollections.Controllers
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            return Ok(advertsDtos);
+            return Ok(advertsDtos);//Testing git hub
         }
 
         //API 2 - Get advert by advert ID
