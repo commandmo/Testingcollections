@@ -1,0 +1,14 @@
+
+{
+    "region" : "ap-southeast-2",
+    "configuration" : "Debug",
+    "framework"     : "net6.0",
+    "self-contained" : false,
+    "application"    : "testcollections-api",
+    "environment"    : "Testcollections-api-dev-env",
+    "app-path"       : "/",
+    "iis-website"    : "Default Web Site",
+    "enable-xray"    : false,
+    "enhanced-health-type" : "enhanced",
+    "additional-options"   : ""
+}

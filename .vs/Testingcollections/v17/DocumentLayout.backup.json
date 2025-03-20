@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|c:\\users\\muhammad.masri\\documents\\web developer\\c#\\testingcollections\\testingcollections\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|solutionrelative:testingcollections\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|c:\\users\\muhammad.masri\\documents\\web developer\\c#\\testingcollections\\testingcollections\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|solutionrelative:testingcollections\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|c:\\users\\muhammad.masri\\documents\\web developer\\c#\\testingcollections\\testingcollections\\controllers\\advertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|solutionrelative:testingcollections\\controllers\\advertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|c:\\users\\muhammad.masri\\documents\\web developer\\c#\\testingcollections\\testingcollections\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|solutionrelative:testingcollections\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|c:\\users\\muhammad.masri\\documents\\web developer\\c#\\testingcollections\\testingcollections\\interfaces\\iadvertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|solutionrelative:testingcollections\\interfaces\\iadvertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|c:\\users\\muhammad.masri\\documents\\web developer\\c#\\testingcollections\\testingcollections\\repository\\advertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|solutionrelative:testingcollections\\repository\\advertrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|c:\\users\\muhammad.masri\\documents\\web developer\\c#\\testingcollections\\testingcollections\\models\\advert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|solutionrelative:testingcollections\\models\\advert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|c:\\users\\muhammad.masri\\documents\\web developer\\c#\\testingcollections\\testingcollections\\repository\\sellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|solutionrelative:testingcollections\\repository\\sellerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|c:\\users\\muhammad.masri\\documents\\web developer\\c#\\testingcollections\\testingcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|solutionrelative:testingcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|c:\\users\\muhammad.masri\\documents\\web developer\\c#\\testingcollections\\testingcollections\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|solutionrelative:testingcollections\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|c:\\users\\muhammad.masri\\documents\\web developer\\c#\\testingcollections\\testingcollections\\migrations\\20240309105906_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|solutionrelative:testingcollections\\migrations\\20240309105906_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|c:\\users\\muhammad.masri\\documents\\web developer\\c#\\testingcollections\\testingcollections\\testingcollections.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|solutionrelative:testingcollections\\testingcollections.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|c:\\users\\muhammad.masri\\documents\\web developer\\c#\\testingcollections\\testingcollections\\dto\\statedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|solutionrelative:testingcollections\\dto\\statedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|c:\\users\\muhammad.masri\\documents\\web developer\\c#\\testingcollections\\testingcollections\\testingcollections.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{658D74EE-3288-41B6-9496-CC1CC912270A}|Testingcollections\\Testingcollections.csproj|solutionrelative:testingcollections\\testingcollections.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Advert.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Models\\Advert.cs",
+              "RelativeDocumentMoniker": "Testingcollections\\Models\\Advert.cs",
+              "ToolTip": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Models\\Advert.cs",
+              "RelativeToolTip": "Testingcollections\\Models\\Advert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:24:32.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdvertRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Repository\\AdvertRepository.cs",
+              "RelativeDocumentMoniker": "Testingcollections\\Repository\\AdvertRepository.cs",
+              "ToolTip": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Repository\\AdvertRepository.cs",
+              "RelativeToolTip": "Testingcollections\\Repository\\AdvertRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:07:47.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAdvertRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Interfaces\\IAdvertRepository.cs",
+              "RelativeDocumentMoniker": "Testingcollections\\Interfaces\\IAdvertRepository.cs",
+              "ToolTip": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Interfaces\\IAdvertRepository.cs",
+              "RelativeToolTip": "Testingcollections\\Interfaces\\IAdvertRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:04:40.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Testingcollections\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "Testingcollections\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:39:52.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240309105906_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Migrations\\20240309105906_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Testingcollections\\Migrations\\20240309105906_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Migrations\\20240309105906_InitialCreate.cs",
+              "RelativeToolTip": "Testingcollections\\Migrations\\20240309105906_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:39:51.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\appsettings.json",
+              "RelativeDocumentMoniker": "Testingcollections\\appsettings.json",
+              "ToolTip": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\appsettings.json",
+              "RelativeToolTip": "Testingcollections\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T10:14:52.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdvertController.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Controllers\\AdvertController.cs",
+              "RelativeDocumentMoniker": "Testingcollections\\Controllers\\AdvertController.cs",
+              "ToolTip": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Controllers\\AdvertController.cs",
+              "RelativeToolTip": "Testingcollections\\Controllers\\AdvertController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAiwGkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:44:31.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Seed.cs",
+              "RelativeDocumentMoniker": "Testingcollections\\Seed.cs",
+              "ToolTip": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Seed.cs",
+              "RelativeToolTip": "Testingcollections\\Seed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:46:57.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Program.cs",
+              "RelativeDocumentMoniker": "Testingcollections\\Program.cs",
+              "ToolTip": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Program.cs",
+              "RelativeToolTip": "Testingcollections\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:22:06.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StateDto.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Dto\\StateDto.cs",
+              "RelativeDocumentMoniker": "Testingcollections\\Dto\\StateDto.cs",
+              "ToolTip": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Dto\\StateDto.cs",
+              "RelativeToolTip": "Testingcollections\\Dto\\StateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:39:06.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Testingcollections",
+              "DocumentMoniker": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Testingcollections.csproj",
+              "RelativeDocumentMoniker": "Testingcollections\\Testingcollections.csproj",
+              "ToolTip": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Testingcollections.csproj",
+              "RelativeToolTip": "Testingcollections\\Testingcollections.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T11:22:37.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Testingcollections\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Testingcollections\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T11:22:25.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SellerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Repository\\SellerRepository.cs",
+              "RelativeDocumentMoniker": "Testingcollections\\Repository\\SellerRepository.cs",
+              "ToolTip": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Repository\\SellerRepository.cs",
+              "RelativeToolTip": "Testingcollections\\Repository\\SellerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:31:30.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Testingcollections.csproj",
+              "DocumentMoniker": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Testingcollections.csproj",
+              "RelativeDocumentMoniker": "Testingcollections\\Testingcollections.csproj",
+              "ToolTip": "C:\\Users\\muhammad.masri\\Documents\\Web Developer\\C#\\Testingcollections\\Testingcollections\\Testingcollections.csproj",
+              "RelativeToolTip": "Testingcollections\\Testingcollections.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-14T11:21:43.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
